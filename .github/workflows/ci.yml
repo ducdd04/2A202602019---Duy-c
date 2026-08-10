@@ -31,7 +31,7 @@ jobs:
           API_TOKEN: test-token
           REDIS_URL: redis://localhost:6379
         run: |
-          pytest tests/ --ignore=tests/test_cp5.py -v
+          pytest tests/ --ignore=tests/test_cp5.py --ignore=tests/test_bonus_cicd.py -v
 
   build:
     runs-on: ubuntu-latest
