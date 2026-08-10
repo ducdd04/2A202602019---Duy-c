@@ -18,9 +18,9 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Public URL | https://2a202602019-duy-c-production.up.railway.app |
+| Public URL | https://k4-day12-2a202602019-doduyduc-production-7fae.up.railway.app |
 | Platform | Railway |
-| Ngày deploy | Hôm nay |
+| Ngày deploy | 10/08/2026 |
 
 ## Biến Môi Trường Đã Set Trên Cloud
 
