@@ -18,8 +18,8 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Public URL | http://localhost:8000 |
-| Platform | Railway (Local Fallback) |
+| Public URL | https://2a202602019-duy-c-production.up.railway.app |
+| Platform | Railway |
 | Ngày deploy | Hôm nay |
 
 ## Biến Môi Trường Đã Set Trên Cloud
