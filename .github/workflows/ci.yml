@@ -27,6 +27,9 @@ jobs:
           pip install pytest httpx
           
       - name: Run tests (except CP5 deploy test)
+        env:
+          API_TOKEN: test-token
+          REDIS_URL: redis://localhost:6379
         run: |
           pytest tests/ --ignore=tests/test_cp5.py -v
 
